@@ -231,7 +231,7 @@ const Home: NextPage = () => {
               /> */}
               <img
                 className={styles.image}
-                src="/public/github.png" // Replace it with the path and filename of your image.
+                src="Standard.jpg" // Replace it with the path and filename of your image.
                 alt={`${contractMetadata?.name} preview image`}
               />
 
