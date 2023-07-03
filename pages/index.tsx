@@ -212,7 +212,7 @@ const Home: NextPage = () => {
         {isLoading ? (
           <p>Loading...</p>
         ) : (
-          <>
+          
 
 
               {/* Amount claimed so far */}
