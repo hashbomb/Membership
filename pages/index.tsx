@@ -229,11 +229,11 @@ const Home: NextPage = () => {
                 src={contractMetadata?.image}
                 alt={`${contractMetadata?.name} preview image`}
               /> */}
-              <img
+              {/* <img
                 className={styles.image}
                 src="Standard.jpg" // Replace it with the path and filename of your image.
                 alt={`${contractMetadata?.name} preview image`}
-              />
+              /> */}
 
 
               {/* Amount claimed so far */}
